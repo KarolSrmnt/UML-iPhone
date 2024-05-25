@@ -2,7 +2,7 @@
 
 > Esse projeto foi criado como desafio para o bootcamp de java, feito pela Santander em parceria com a DIO.
 
-**Objetivo:** Esse desafio visa criar o diagrama UML do componente iPhone, a partir das _interfaces_ `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`.
+**Objetivo:** Esse desafio visa criar o diagrama UML do componente iPhone, a partir das implementação das _interfaces_ `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`, e da classe `IPhone`.
 
 
 ## :space_invader: Funcionalidades
