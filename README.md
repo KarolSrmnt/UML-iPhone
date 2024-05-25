@@ -17,6 +17,8 @@ Foram implementadas as seguintes interfaces:
 **NavegadorInternet**
 - Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina().
 
+A classe **IPhone** implementa as três interfaces.
+
 
 ## :space_invader: Diagrama UML
 Diagrama feito com a ferramenta draw.io
