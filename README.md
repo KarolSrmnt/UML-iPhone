@@ -6,7 +6,7 @@
 
 
 ## :space_invader: Funcionalidades
-Foram implementadas as seguintes interfaces: 
+Interfaces implementadas: 
 
 **ReprodutorMusical**
 - Métodos: tocar(), pausar(), selecionarMusica(String musica).
